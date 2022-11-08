@@ -1,0 +1,40 @@
+body
+{
+background-image: url("background1.jpg");
+background-position: center;
+background-size: cover;
+text-align: center;
+}
+#instructions{
+    float: right;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    font-size: 20px;
+}
+#heading_text{
+    display: inline;
+}
+#heading{
+    width: 100%;
+}
+#play_button{
+    font-size: 20px;
+    margin-top: 20px;
+}
+#restart{
+    font-size: 20px;
+}
+#dialog_box{
+    width: 70%;
+    font-size: 25px;
+    text-align: left;
+}
+#modal-header{
+    text-align: center;
+}
+canvas{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
